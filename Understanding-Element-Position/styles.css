@@ -24,6 +24,13 @@ p {
 
 #two {
   background-color: #c95bc7;
+  /* position: static; --> Default setting */
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  box-sizing: border-box;
+  
 }
 
 #three {
